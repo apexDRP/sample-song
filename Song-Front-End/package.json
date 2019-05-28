@@ -1,0 +1,16 @@
+{
+  "name": "song-front-end",
+  "version": "1.0.0",
+  "description": "Front-End",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "author": "Damien Roy Pearson",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
